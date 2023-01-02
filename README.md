@@ -5,3 +5,7 @@ Then, we will learn how to register a new user step by step using Firebase Authe
 I am in the process of modifying this app into a crime alert app.Only screenshots are shared.
 You can add new features to this app and help support my work . Kind regards ,Sakhi Johannes Khanyi. 
 To run this app , install the latest andriod studio and use firebase/mongoDB for logins authentification.
+For Queries 
+Whatsapp Number : +27 67 834 9132
+email address : khanyisj95@gmail.com
+location : South Africa , Pretoria .
